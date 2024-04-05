@@ -1,0 +1,73 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container {
+    background-image: linear-gradient(to right, #f3eaff, #dac0ff);
+    padding: 20px;
+}
+
+.heading {
+    font-family: "Roboto";
+    font-weight: 900;
+    color: #690cb0;
+    font-size: 45px;
+}
+
+.para-text {
+    font-family: "Roboto";
+    font-weight: 400;
+    color: #3e4c59;
+    font-size: 18px;
+}
+
+.clock {
+    width: 55px;
+    height: 55px;
+}
+
+.timer {
+    font-family: "Roboto";
+    font-weight: 500;
+    color: #323f4b;
+    font-size: 40px;
+}
+
+.card-container {
+    border-color: #9aa5b1;
+    border-width: 1px;
+    border-style: solid;
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.question {
+    font-family: "Roboto";
+    font-weight: 400;
+    color: #323f4b;
+    font-size: 20px;
+}
+
+.text-area {
+    border-color: #9aa5b1;
+    border-radius: 6px;
+}
+
+.submit-btn {
+    border-radius: 5px;
+    border-width: 0px;
+    background-color: #690cb0;
+    color: white;
+}
+
+.reset-btn {
+    border-radius: 5px;
+    border-width: 0px;
+    background-color: #f3eaff;
+}
+
+.result {
+    font-family: "Roboto";
+    font-weight: 400;
+    color: #3e4c59;
+    font-size: 20px;
+}
